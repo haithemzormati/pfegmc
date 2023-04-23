@@ -1,0 +1,6 @@
+.titre{background-color: brown;text-align: center;}
+.liste{background-color: aqua ;margin-left:25% ;margin-right: 25%;display: inline-block;text-align: center;}
+.image{background-image: url("téléchargement.jpg");height: 400px; display:block; margin-left: auto;margin-right: auto; width: 100%;}
+.Service{background-color: blueviolet;width: 100%;flex-direction: column;align-items: center;}
+.moyensdecontact{background-color: rgb(42, 196, 119);width: 40%;}
+.client{background-color: rgb(220, 245, 224); width: 40%;}
